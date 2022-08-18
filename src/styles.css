@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 250;
+    background-image: url(https://www.semana.com/resizer/K2XBSEVyDb9Pdt_RjIeHhoP8fqc=/arc-anglerfish-arc2-prod-semana/public/EUZIKALW7RBGVF4UQ74JMF3UG4.jpg);
+}
