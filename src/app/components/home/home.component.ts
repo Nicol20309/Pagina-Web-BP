@@ -13,8 +13,4 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  ingreso() {
-    this.router.navigate(['/login']);
-  }
-
 }

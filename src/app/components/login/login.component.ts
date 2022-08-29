@@ -20,7 +20,7 @@ export class LoginComponent implements OnInit {
     pullDrag: true,
     dots: false, //Los puntos de abajo
     navSpeed: 700,
-    navText: ['<-', '->'],//Para cambiar de imagen
+    navText: [' ', ' '],//Para cambiar de imagen
     responsive: { //El numero de imagenes a mostrar según el tamaño
       0: {
         items: 1
